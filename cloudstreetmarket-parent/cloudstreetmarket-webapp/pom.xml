@@ -38,6 +38,16 @@
 		</dependency>
 
 		<dependency>
+			<groupId>edu.zipcloud.cloudstreetmarket</groupId>
+			<artifactId>cloudstreetmarket-core</artifactId>
+			<version>${csm.version}</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+		</dependency>
+		<dependency>
 			<groupId>javax.servlet.jsp</groupId>
 			<artifactId>jsp-api</artifactId>
 		</dependency>
